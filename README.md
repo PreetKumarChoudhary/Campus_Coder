@@ -41,7 +41,7 @@ Move to root directory. And, open server folder.
 
 Run the server
 ```bash
-node app
+node server
 ```
 
 You are all set to use 
